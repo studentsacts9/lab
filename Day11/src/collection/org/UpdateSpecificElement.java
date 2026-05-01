@@ -14,6 +14,10 @@ public class UpdateSpecificElement {
 		colors.add("Pink");
 		colors.add("brown");
 		colors.add("orange");
+		colors.add("dsygfdh");
+
+
+
 		
 		System.out.println("Enter the positon to update the element");
 		int index=sc.nextInt();
